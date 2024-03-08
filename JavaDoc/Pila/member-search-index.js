@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Pila","l":"getHead()"},{"p":"<Unnamed>","c":"Pila","l":"Pila()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Pila","l":"pop()"},{"p":"<Unnamed>","c":"Pila","l":"push(String)","u":"push(java.lang.String)"},{"p":"<Unnamed>","c":"Pila","l":"setHead(Pila.Nodo)"}];updateSearchResults();
